@@ -14,7 +14,7 @@
 - [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
 - [JavaScript DOM ](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
-- [Node.js](https://nodejs.org/es/)
+
 
 ---
 
