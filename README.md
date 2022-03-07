@@ -4,7 +4,7 @@
 <h1>Layout Practice</h1>
 </div>
 
-============
+
 
 <h2 align="center"> 🚀 In process... </h2> 
 <p align="center"><img src="./assets/img/imgReadme.png?raw=true" width="500"></a></p>
