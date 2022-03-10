@@ -1,0 +1,19 @@
+{
+  "name": "practice1-htmlpage",
+  "version": "1.0.0",
+  "description": "<div align=\"center\"> <img src=\"./assets/img/iconCode.png?raw=true\" width=\"40\"></a>",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davina-dev/practice1-HTMLPage.git"
+  },
+  "author": "Davina Medina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davina-dev/practice1-HTMLPage/issues"
+  },
+  "homepage": "https://github.com/Davina-dev/practice1-HTMLPage/"
+}
