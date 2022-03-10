@@ -60,9 +60,19 @@ a p{
         margin-left: 5em;
         justify-content:flex-start;
     }
+
     .toolbar_span-menu{
-       background-color: aqua;
         display: flex;
-        margin: 1em 4em 1em 1em;
+        margin: 1em 7em 1em 1em;
     }
+
+    .toolbar_span-menu img{
+        width: 3em;
+    }
+    .toolbar_span-menu  img:hover{
+        background-color: #f8005f21;
+
+        border-radius: 50%;
+    }
+   
 }
