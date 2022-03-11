@@ -6,7 +6,13 @@ main {
     text-align: center;
     min-height: 100vh;
     display: flex;
+    flex-direction: column;
     justify-content: center;
+  }
+  .hero{
+   
+    width: 100%;
+   
   }
   
   h1,
@@ -21,10 +27,14 @@ main {
     margin-top:2em;
   }
   
-  h2 {
+  .hero h2 {
    
     font-size: 2rem;
     font-weight: normal;
+    font-size: 20pt;
+    margin-bottom: 1em;
+    margin: 0.2em 7em 1em 7em;
+  
   }
   
  
@@ -60,10 +70,7 @@ main {
     flex-wrap: wrap;
     justify-content: center;
   }
-  h2{
-      max-width: 862px;
-      font-size: 20pt;
-  }
+
   .card_img{
   
     width: 100%;
@@ -125,3 +132,8 @@ main {
     filter: invert();
   }
   
+  @media(max-width: 957px ) {
+    .hero h2{
+      margin: 0.2em 0.3em 1em 0.3em;
+      font-size: 15pt;
+  }}
