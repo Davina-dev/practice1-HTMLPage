@@ -65,25 +65,28 @@ main {
   }
   
   .highlights {
-    margin-top: 3rem;
+    margin: 6em;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
   }
 
+  
   .card_img{
   
     width: 100%;
     height:auto;
     border: 1em solid #eee;
+    border-radius: 2em;
     
   }
   .card {
-      border: 2px solid #00000030;
+      border: 2px solid #00000011;
       display: flex;
       flex-direction: column;
       justify-content: space-between;
-      max-width: 20rem;
+      max-width: 22rem;
+      height: 100%;
       margin: 1rem;
       padding-top: 1.5rem;
       background: #eee;
@@ -110,7 +113,7 @@ main {
     width: 100%;
     margin: 0;
     padding: 1rem;
-    background: rgba(212, 211, 211, 0.836);
+    background: rgba(0, 0, 0, 0.14);
     border: none;
     color: #222;
     text-decoration: none;
@@ -132,8 +135,17 @@ main {
     filter: invert();
   }
   
+
+ 
+
   @media(max-width: 957px ) {
     .hero h2{
       margin: 0.2em 0.3em 1em 0.3em;
       font-size: 15pt;
-  }}
+    }
+
+      .highlights {
+        margin: 3em 1em 3em 1em;
+        
+      }
+  }

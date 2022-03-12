@@ -7,7 +7,7 @@ let data_projects = [
     {
         id: 1,
         title: " Toca el Dombo ",
-        src:"/assets/img/avatarDavina.png",
+        src:"/assets/img/projects/domboo.png",
         description: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque labore iure iusto perferendis, rerum mollitia voluptatibus eum molestias delectus officiis, atque quaerat quisquam ratione doloribus. Eos vero officia omnis est.",
         skills: "CSS, HTML, JS DOM",
         source: "https://github.com/Davina-dev/Toca-el-Dombo",
@@ -17,7 +17,7 @@ let data_projects = [
     {
         id: 2,
         title: " Eloquent JS Solutions",
-        src:"/assets/img/avatarDavina.png",
+        src:"/assets/img/projects/eloquentJs.png",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque labore iure iusto perferendis, rerum mollitia voluptatibus eum molestias delectus officiis, atque quaerat quisquam ratione doloribus. Eos vero officia omnis est.",
         skills: "CSS, HTML, JS DOM",
         source: "https://github.com/Davina-dev/Toca-el-Dombo",
@@ -27,7 +27,7 @@ let data_projects = [
     {
         id: 3,
         title: "  CRUD React",
-        src:"/assets/img/avatarDavina.png",
+        src:"/assets/img/projects/crudReact.png",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque labore iure iusto perferendis, rerum mollitia voluptatibus eum molestias delectus officiis, atque quaerat quisquam ratione doloribus. Eos vero officia omnis est.",
         skills: "CSS, HTML, React Hooks, Node",
         source: "https://github.com/Davina-dev/Toca-el-Dombo",
@@ -37,7 +37,7 @@ let data_projects = [
     {
         id: 4,
         title: " PokeApi ",
-        src:"/assets/img/avatarDavina.png",
+        src:"/assets/img/projects/pokeapi.png",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque labore iure iusto perferendis, rerum mollitia voluptatibus eum molestias delectus officiis, atque quaerat quisquam ratione doloribus. Eos vero officia omnis est.",
         skills: "CSS, HTML, JS DOM",
         source: "https://github.com/Davina-dev/Toca-el-Dombo",
@@ -74,14 +74,14 @@ let data_projects = [
      DOMcardsProjects.innerHTML += `
     
      <section class="card">
-     <h3>${data_projects[i].title}</h3>
-     <div ><img  class="card_img"src=${data_projects[i].src} alt=""></div>
+     <h3>${data.title}</h3>
+     <div ><img  class="card_img"src=${data.src} alt=""></div>
      <p>
-     ${data_projects[i].description}
+     ${data.description}
      </p>
-     <p><b>Skills:</b> ${data_projects[i].skills} </p>
-     <a href="${data_projects[i].source}" class="card__btn">Source </a>
-     <a href="${data_projects[i].demo}" class="card__btn optional">Demo </a>
+     <p><b>Skills:</b> ${data.skills} </p>
+     <a href="${data.source}" class="card__btn">Source </a>
+     <a href="${data.demo}" class="card__btn optional">Demo </a>
    </section>
     
      `

@@ -76,3 +76,9 @@ a p{
     }
    
 }
+@media(max-width: 1260px ) {
+    
+.toolbar_social{
+    display: none;
+}
+    }
