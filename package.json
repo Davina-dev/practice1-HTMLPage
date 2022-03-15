@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "<div align=\"center\"> <img src=\"./assets/img/iconCode.png?raw=true\" width=\"40\"></a>",
   "main": "main.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
