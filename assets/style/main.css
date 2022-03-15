@@ -45,15 +45,15 @@ main {
   .btn:focus {
     display: inline-block;
     padding: 0.5rem 1rem;
-    background: rgb(16,11,30);
-    cursor: pointer; 
-    width:3em;
+    background: rgb(16 11 30 / 85%);
+    cursor: pointer;
+    width: 3em;
     height: 3em;
-    
-   margin:4px;
-    box-shadow: -4px -4px 4px rgba(58, 68, 93, 0.5), 4px 4px 4px #060C18;
+    margin: 4px;
+    box-shadow: -4px -4px 4px rgb(168 162 182 / 76%), 4px 4px 4px rgb(93 70 152 / 76%);
     border-radius: 119px;
 }
+
     
  
   
@@ -63,6 +63,7 @@ main {
     background: rgba(10, 3, 27, 0.137);
    
   }
+  
 
   
   
@@ -112,7 +113,7 @@ main {
     width: 100%;
     margin: 0;
     padding: 1rem;
-    background: rgba(235, 213, 232, 0.658);
+    background: rgb(208 208 208 / 66%);
     border: none;
     color: #222;
     text-decoration: none;
@@ -150,7 +151,7 @@ main {
 
   @media(max-width: 957px ) {
     .hero h2{
-      margin: 0.2em 0.3em 1em 0.3em;
+      margin: 0.1em 0.3em 1em 0.3em;
       font-size: 15pt;
     }
 
