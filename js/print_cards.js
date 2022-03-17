@@ -1,4 +1,4 @@
-function printCards(data){
+export function printCards(data){
      
     DOMcardsProjects.innerHTML += `
    
@@ -14,6 +14,4 @@ function printCards(data){
   </section>
    
     `
-
-
 }

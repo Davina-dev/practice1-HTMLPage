@@ -1,4 +1,4 @@
-let data_projects = [
+export const dataProjects = [
     {
         id: 1,
         title: " Toca el Dombo ",
@@ -37,4 +37,3 @@ let data_projects = [
     }
 ];
 
-export default data_projects;
