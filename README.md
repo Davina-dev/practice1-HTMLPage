@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/img/iconCode.png?raw=true" width="40"></a>
+  <p>demo: https://623499c76b38a651d0dc883e--wizardly-bohr-efbe8d.netlify.app/</p>
 
 <h1>Layout Practice</h1>
 </div>
