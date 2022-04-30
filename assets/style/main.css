@@ -9,9 +9,7 @@ main {
     justify-content: center;
   }
   .hero{
-   
     width: 100%;
-   
   }
   
   h1,
@@ -28,17 +26,13 @@ main {
   }
   
   .hero h2 {
-   
     font-size: 2rem;
     font-weight: normal;
     font-size: 20pt;
     margin-bottom: 1em;
     margin: 0.2em 7em 1em 7em;
-    
-  
   }
   
- 
   
   .btn,
   .btn:hover,
@@ -55,16 +49,14 @@ main {
 }
 
     
- 
+
   
   .btn:hover,
   .btn:focus {
     border-color: rgb(250, 247, 247);
     background: rgba(10, 3, 27, 0.137);
-   
   }
   
-
   
   
   .highlights {
@@ -146,8 +138,6 @@ main {
     filter: invert();
   }
   
-
- 
 
   @media(max-width: 957px ) {
     .hero h2{
