@@ -4,13 +4,11 @@
 <h1>Layout Practice</h1>
     
 </div>
-<<<<<<< HEAD
+
 
 
 
 =======
-      
->>>>>>> 283c918a6ed00ece8c1530177ddd4fa327cbfae4
 <p align="center"><img src="./assets/img/imgReadme.png?raw=true" width="500"></a></p>
 
 ## Skills
@@ -20,6 +18,7 @@
 - [JavaScript DOM ](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 ## Demo
  - <p> https://623499c76b38a651d0dc883e--wizardly-bohr-efbe8d.netlify.app/</p>
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/6b2bb0d2-384e-4844-b7d1-7996aec8c54b/deploy-status)](https://app.netlify.com/sites/wizardly-bohr-efbe8d/deploys)
 ---
 
 ⌨️ with ❤️ by [Davina](https://www.linkedin.com/in/davinamedina/) 😊
