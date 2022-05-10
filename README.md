@@ -14,7 +14,7 @@
 - [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
 - [JavaScript DOM ](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 ## Demo
- - [Demo: ](https://https://landing-projects.netlify.app/)
+ - [Demo ](https:/landing-projects.netlify.app)
  - 
     [![Netlify Status](https://api.netlify.com/api/v1/badges/6b2bb0d2-384e-4844-b7d1-7996aec8c54b/deploy-status)](https://app.netlify.com/sites/wizardly-bohr-efbe8d/deploys)
 ---
